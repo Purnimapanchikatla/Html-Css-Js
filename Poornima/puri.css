@@ -1,0 +1,151 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.total{
+    background: darkolivegreen;
+    height: 1126px;
+}
+.box{
+    background: rgb(234, 237, 229);
+    height: 705px;
+    width: 1090px;
+    margin-left: 370px;
+    position: relative;
+    top: 175px;
+}
+.box2 nav{
+    display: flex;
+    padding-top: 21px;
+    margin-left: 38px;
+}
+.box2 nav p{
+    color: #027e02;
+    font-size: 23px
+}
+.nav-bar{
+    display: flex;
+    padding-left: 193px;
+}
+.nav-bar a{
+    padding-left: 15px;
+    text-decoration: 2px underline gray;
+    text-underline-offset: 9px;
+    color: rgb(10, 1, 1);
+}
+.nav-bar a span{
+    text-decoration:2px underline green;
+}
+.icons{
+    display: flex;
+    padding-left: 155px;
+}
+.icons h1{
+    padding: 0px 0px 0px 17px;
+}
+.box img{
+    height: 166px;
+    padding-top: 69px;
+    filter: drop-shadow(9px 4px 8px black);
+}
+.mid{
+    margin-top: -48px;
+    background-color: rgb(41, 174, 41);
+    width: 141px;
+    height: 169px;
+    margin-left: 403px;
+}
+.mid b{
+    position: relative;
+    top: 170px;
+    text-decoration: underline;
+}
+.mid img{
+    height: 169px;
+    width: 137px;
+    padding: 1px 9px 33px 38px;
+    position: relative;
+    bottom: 29px;
+}
+.cnt{
+    margin-top: -135px;}
+.cnt h1{
+    margin-left: 725px;
+    padding: 0px 0px 20px 4px;
+}
+.cnt h1 span{
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    margin-left: 12px
+}
+.cnt p{
+    margin-left: 670px;
+}
+
+.text{
+        margin-left: 33px;
+        font-size: 19px;
+}
+.line{
+    border: 1px solid;
+    width: 90px;
+    height: 0px;
+    margin-left: 90px;
+    margin-top: -10px;
+}
+.text h1{
+    font-size: 40px;}
+.text h2{
+        color: green;
+        font-size: 45px;
+}
+.boxes{
+    margin-top: 59px;
+    margin-left: 23px;
+}
+.box1 {
+    height: 25px;
+    background-color: orange;
+    width: 374px;
+    padding: 6px;
+}
+.box3{
+    height: 25px;
+    background-color: #ff6000;
+    width: 336px;
+    padding: 6px;
+    position: relative;
+    margin-top: -9px;
+
+}
+.box5{
+    height: 28px;
+    background-color: #05560c;
+    width: 296px;
+    padding: 6px;
+    position: relative;
+    margin-top: -9px;
+}
+.box7{
+    height: 25px;
+    background-color: #ba3e3e;
+    width: 263px;
+    padding: 6px;
+    position: relative;
+    margin-top: -9px;
+    float: left;
+}
+.video video{
+    position: relative;
+    height: 100px;
+    width: 179px;
+    margin-top: -83px;
+    margin-left: 435px;
+    box-shadow: 178px 0px 0px #aaa39a;
+}
+.video p{
+    width: 150px;
+    margin-left: 896px;
+    margin-top: -87px;
+    position: relative;
+}

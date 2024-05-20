@@ -1,0 +1,108 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.box {
+    background-color: lightblue;
+    height: 70px;
+    box-shadow: 0px 0px 36px black;
+}
+
+.box i {
+    font-size: 40px;
+    margin: 10px 0px 0px 160px;
+}
+
+.box p {
+    margin: 0px 260px 0px 0px;
+    font-size: larger;
+    display: inline;
+}
+
+.box a {
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+}
+.box nav p{
+    margin-left: 25px;
+}
+.line{
+    border: solid 1px;
+    box-shadow: 0px 0px 11px black;
+}
+.bgimg {
+    background-image: url(assets/bg.png);
+    height: 685px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.text h2{
+    font-size: 55px;
+    padding-top: 27px;
+    margin-left: 271px;
+}
+.text2 p{
+    font-size: 57px;
+    margin-left: 267px;
+    margin-top: 12px;
+}
+.text h2 span{
+    color: #FF9800;
+}
+.text h2{
+    font-size: 44px;
+    margin-left: 269px;
+}
+.text h1{
+    font-size: 38px;
+    margin-left: 267px;
+    margin-top: 12px;
+}
+.text h1 span{
+    color: maroon;
+}
+.text button{
+    margin-left: 301px;
+    padding: 8px;
+    background-color: blue;
+    border-radius: 49px;
+    color: white;
+    font-size: 18px;
+    box-shadow: 0px 0px 30px blue;
+}
+.icons{
+    margin-left: 255px;
+    margin-top: 19px;
+}
+    .icons i{
+        padding: 7px;
+        background-color: black;
+        color: light blue;
+        color: deepskyblue;
+        border-radius: 76px;
+        font-size: 17px;
+        margin-left: 21px;
+    }
+    .text button{
+        margin-left: 301px;
+    padding: 8px;
+    background-color: blue;
+    border-radius: 49px;
+    color: white;
+    font-size: 18px;
+    }
+    .hello img{
+        height: 403px;
+        width: 413px;
+        background-color: #099ce3;
+        border-radius: 216px border: solid;
+        box-shadow: grey;
+        box-shadow: 7px 0px 40px black;
+        border-radius: 252px;
+    }
